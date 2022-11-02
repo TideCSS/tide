@@ -6,7 +6,10 @@
 
 <h2>Installation</h2>
 <h3>CDN</h3>
-<code>https://cdn.jsdelivr.net/gh/tidecss/tide/src/tide.min.css</code>
+  
+```
+https://cdn.jsdelivr.net/gh/tidecss/tide/src/tide.min.css
+```
 
 <h2>Coming Soon</h2>
 
