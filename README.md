@@ -3,6 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/117318297" width="100">
 
 <h1>TideCSS</h1>
+<h3>A macOS-styled CSS library for Electron</h3>
 <h2>Demo</h2>
 <a href="https://ih902g.csb.app/" target="_blank">View Demo</a>
 <h2>Installation</h2>
@@ -12,6 +13,8 @@
 https://cdn.jsdelivr.net/gh/tidecss/tide/src/tide.min.css
 ```
 
-<h2>Coming Soon</h2>
+<h2>More Coming Soon</h2>
+
+<p><b>Notice: TideCSS Forms, Checkbox/Radio, and Button (basically everything) is broken on Mobile.</b></p>
 
 </div>
