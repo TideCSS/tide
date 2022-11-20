@@ -4,8 +4,6 @@
 
 <h1>TideCSS</h1>
 <h3>A macOS-styled CSS library for Electron</h3>
-<h2>Demo</h2>
-<a href="https://ih902g.csb.app/" target="_blank">View Demo</a>
 <h2>Installation</h2>
 <h3>CDN</h3>
   
