@@ -4,6 +4,7 @@
 
 <h1>TideCSS</h1>
 <h3>A macOS-styled CSS library for Electron</h3>
+<h2><a href="https://weeml1.csb.app/">Demo</a></h2>
 <h2>Installation</h2>
 <h3>CDN</h3>
   
